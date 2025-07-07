@@ -3,6 +3,5 @@
 <html lang="pt-BR"> 
 </head>
 <body>
-    <h1>Minha Primeira Página</h1>
-
-    <h2>Bem-vindo à minha página!</h2>
+    <h1>Minha Primeira Página</h1> 
+    <p> Bem vindo a minha pagina</p>
