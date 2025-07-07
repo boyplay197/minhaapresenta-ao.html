@@ -2,6 +2,7 @@
 <!DOCTYPE html>
 <html lang="pt-BR"> 
 </head>
+    <title>Minha Primeira Página</title>
 <body>
     <h1>Minha Primeira Página</h1> 
 <p> Bem vindo a minha pagina</p>
